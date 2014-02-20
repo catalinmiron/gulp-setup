@@ -1,7 +1,7 @@
 {
-  "name": "gulptest",
-  "author": "Samuel Horn",
-  "version": "0.0.0",
+  "name": "letMeScroll",
+  "author": "Miron Catlain",
+  "version": "0.0.1",
   "main": "gulpfile.js",
   "devDependencies": {
     "gulp-util": "~2.2.12",
